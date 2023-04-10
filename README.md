@@ -2,7 +2,7 @@
 There are all python script i created.
 
 
-# Terminal
-soo how do i use it...?
+# CMDTerminal
+Basic Terminal writen in Python.
 
--- You will know
+**Type Cmds for commands**
